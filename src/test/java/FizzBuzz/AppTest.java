@@ -23,4 +23,9 @@ public class AppTest {
         Assert.assertEquals("Buzz", fizzbuzz.convert(5));
     }
 
+    @Test
+    public void FifteenReturnsFizzBuzz() {
+        Assert.assertEquals("FizzBuzz", fizzbuzz.convert(15));
+    }
+
 }
