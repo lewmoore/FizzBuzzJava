@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e37f394-4b09-42ca-8bbf-f9b7d07579c9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,24 +21,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#296#297#0" expanded="true" />
                 <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -59,8 +63,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzz/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" />
       </list>
     </option>
   </component>
@@ -285,6 +289,21 @@
     <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 53m 59s.xml">
       <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 54m 24s.xml">
+      <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 54m 37s.xml">
+      <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 54m 59s.xml">
+      <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2018.07.05 at 13h 55m 13s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2018.07.05 at 14h 02m 14s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-181" y="-1177" width="1920" height="1177" extended-state="6" />
@@ -298,12 +317,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32910246" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32910246" />
       <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -336,21 +356,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz/App.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="330">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>

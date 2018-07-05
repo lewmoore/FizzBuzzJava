@@ -17,4 +17,10 @@ public class AppTest {
     public void ReturnsInput() {
         Assert.assertEquals("1", fizzbuzz.convert(1));
     }
+
+    @Test
+    public void FiveReturnsBuzz() {
+        Assert.assertEquals("Buzz", fizzbuzz.convert(5));
+    }
+
 }
