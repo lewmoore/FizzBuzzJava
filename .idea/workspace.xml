@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e37f394-4b09-42ca-8bbf-f9b7d07579c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -67,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzz/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzz/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzz/App.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -279,9 +288,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 23m 42s.xml">
-      <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="AppTest_ThreeReturnsFizz - 2018.07.05 at 13h 53m 49s.xml">
       <configuration name="AppTest.ThreeReturnsFizz" configurationId="AndroidJUnit" />
     </history-entry>
@@ -307,6 +313,9 @@
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AppTest - 2018.07.05 at 14h 14m 25s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2018.07.05 at 14h 15m 15s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -381,6 +390,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
         </state>
       </provider>
     </entry>
