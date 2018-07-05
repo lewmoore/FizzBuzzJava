@@ -1,13 +1,11 @@
 package FizzBuzz;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    public String convert(int number) {
+        if ( number % 3 == 0 ) {
+            return "Fizz";
+        } else {
+            return String.valueOf(number);
+        }
     }
 }
